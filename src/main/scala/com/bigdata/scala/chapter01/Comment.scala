@@ -21,8 +21,11 @@ object Comment {
      * @return 和
      */
     def sum(n1: Int, n2: Int): Int = {
-        var str = "hell0" + "hell0" + "hello" + "hello"+ "hello"+ "hello"+ "hello"+ "hello"+ "hello"+ "hello"+ "hello"+ "hello"
+        var str = "hell0" + "hell0" + "hello" + "hello" + "hello" + "hello" + "hello" + "hello" + "hello" + "hello" +
+                "hello" + "hello"
 
         return n1 + n2
     }
 }
+
+
